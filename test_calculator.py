@@ -1,3 +1,8 @@
+#https://github.com/ShayanNazir/Lab11-SN-GW
+#Partner 1: Shayan Nazir
+#Partner 2: Gordon Whitcomb
+
+
 import unittest
 from calculator import *
 
